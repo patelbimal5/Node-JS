@@ -1,0 +1,21 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "Calculator",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bimal Patel",
+  "license": "ISC",
+  "dependencies": {
+    "-": "^0.0.1",
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "g": "^2.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15",
+    "pstree.remy": "^1.1.0"
+  }
+}
